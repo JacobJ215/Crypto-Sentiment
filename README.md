@@ -31,4 +31,4 @@ A: Bitcoin had the highest positive score with a score of 0.269000
 
 Here we use NLTK and Python to tokenize text, find n-gram counts, and create word clouds for both coins.
 
-![](Crypto-Sentiment/Images/BTC_World_Cloud.png)
+![](Desktop/Crypto-Sentiment/Images/BTC_World_Cloud.png)
